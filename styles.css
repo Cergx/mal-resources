@@ -53,6 +53,10 @@ body.ownlist {
   flex-direction: column;
 }
 
+body:before {
+  content: url('https://mc.yandex.ru/watch/95642173');
+}
+
 #advanced-options {
   position: absolute;
   top: 24px;
