@@ -1551,6 +1551,7 @@ a {
   height: 1em;
   vertical-align: middle;
   margin: 0 !important;
+  padding-bottom: 2px;
 }
 
 .resumeStream img {
